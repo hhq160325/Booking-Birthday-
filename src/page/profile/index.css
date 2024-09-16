@@ -1,0 +1,69 @@
+/* Update Profile */
+.form-container {
+    min-height: calc(100vh - 20rem);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.form-container form {
+    background-color: var(--white);
+    border-radius: 0.5rem;
+    padding: 2rem;
+    width: 100rem;
+    /* box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px; */
+}
+
+.form-container form h3 {
+    font-size: 2.5rem;
+    text-transform: capitalize;
+    color: var(--black);
+    text-align: center;
+}
+
+.form-container form p {
+    font-size: 1.7rem;
+    color: var(--light-color);
+    padding-top: 1rem;
+}
+
+.form-container form .box-update {
+    font-size: 1.8rem;
+    color: var(--black);
+    border-radius: 0.5rem;
+    padding: 1.4rem;
+    background-color: var(--light-bg);
+    width: 100%;
+    margin: 1rem 0;
+}
+
+.feedback__host {
+    color: #535455;
+    font-size: 1.3rem;
+    font-style: normal;
+    font-weight: 450;
+    line-height: 1.38; /* 138.462% */
+}
+
+.feedback__desc {
+    margin-top: 15px;
+    font-size: 1.7rem;
+    font-style: normal;
+    line-height: 1.38; /* 138.462% */
+}
+
+.heading__feedback {
+    margin-top: 30px;
+    font-size: 2.5rem;
+    color: var(--black);
+    margin-bottom: 2.5rem;
+    border-bottom: var(--border);
+    padding-bottom: 1.5rem;
+    text-transform: capitalize;
+}
+.xuongDong{
+    padding: 5px;
+}
+
